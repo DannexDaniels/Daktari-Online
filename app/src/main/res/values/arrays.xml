@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="insurance">
+        <item>Don\'t have insurance</item>
+        <item>NHIF</item>
+        <item>Jubilee Insurance</item>
+        <item>Madison Insurance</item>
+    </string-array>
+    <string-array name="relationship">
+        <item>Father</item>
+        <item>Mother</item>
+        <item>Brother</item>
+        <item>Sister</item>
+        <item>Uncle</item>
+        <item>Aunt</item>
+        <item>Cousin</item>
+        <item>Friend</item>
+    </string-array>
+    <string-array name="counties">
+        <item>Kakamega</item>
+        <item>Embu</item>
+        <item>Nairobi</item>
+        <item>Mombasa</item>
+        <item>Kisumu</item>
+        <item>Nakuru</item>
+        <item>Kiambu</item>
+        <item>Garissa</item>
+        <item>Meru</item>
+        <item>Marsabit</item>
+        <item>Nyeri</item>
+        <item>Machakos</item>
+        <item>Turkana</item>
+        <item>Nandi</item>
+        <item>Laikipia</item>
+        <item>Kisii</item>
+        <item>Busia</item>
+        <item>Bungoma</item>
+        <item>Vihiga</item>
+    </string-array>
+    <string-array name="Towns">
+        <item>Lurambi</item>
+        <item>Lugari</item>
+        <item>Kakamega Town</item>
+        <item>Mumias</item>
+        <item>Malava</item>
+        <item>Shinyalu</item>
+    </string-array>
+    <string-array name="AmbCat">
+        <item>Hospital</item>
+        <item>Private Firm</item>
+    </string-array>
+</resources>

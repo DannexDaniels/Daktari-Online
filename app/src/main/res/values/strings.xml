@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Daktari Online</string>
+    <string name="title_activity_patient_about_self">PatientAboutSelf</string>
+    <string name="title_activity_pharmacy_create_account">PharmacyCreateAccount</string>
+    <string name="title_activity_ambulance_create_account">AmbulanceCreateAccount</string>
+    <string name="title_activity_ambulance_map">Map</string>
+</resources>

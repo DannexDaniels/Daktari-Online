@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "827981031998",
+    "firebase_url": "https://daktari-online.firebaseio.com",
+    "project_id": "daktari-online",
+    "storage_bucket": "daktari-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827981031998:android:fdbb2cdc9ce966a5",
+        "android_client_info": {
+          "package_name": "com.dannextech.apps.daktari_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827981031998-vb098laq2635cosshjsmca07ce2abscd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dannextech.apps.daktari_online",
+            "certificate_hash": "c4a9387b8afcc9b0e42ab975a267fbddda4bd2fd"
+          }
+        },
+        {
+          "client_id": "827981031998-l6pb8h6odrta4qlkdcj70e0548snvv6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5_unTlYhP2EkTSxin79N29D7SOenXLs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827981031998-l6pb8h6odrta4qlkdcj70e0548snvv6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827981031998:android:6c5cba7100c7de73",
+        "android_client_info": {
+          "package_name": "com.dannextech.apps.daktarionline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827981031998-0jf826p2283pi1hmmv92bgo5tlrot6jb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dannextech.apps.daktarionline",
+            "certificate_hash": "c4a9387b8afcc9b0e42ab975a267fbddda4bd2fd"
+          }
+        },
+        {
+          "client_id": "827981031998-l6pb8h6odrta4qlkdcj70e0548snvv6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5_unTlYhP2EkTSxin79N29D7SOenXLs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827981031998-l6pb8h6odrta4qlkdcj70e0548snvv6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
